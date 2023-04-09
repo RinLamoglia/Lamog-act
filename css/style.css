@@ -104,6 +104,12 @@ div:nth-child(4){
     display: inline;
     padding: 35px 55px;
 }
+li{
+    
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: white;
+}
 ul :first-child{
     background-color: purple;
 }
