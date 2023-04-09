@@ -85,7 +85,7 @@ div:nth-child(4){
 #services{
     margin-top: 100px;
     background-color: whitesmoke;
- 
+    margin: 100px;
     height: 400px;
 
 }
