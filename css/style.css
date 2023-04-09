@@ -14,13 +14,15 @@
     place-content: center;
 }
 #landing :first-child{
-    
+   
     margin-top: 110px;
-font-size: 3.1vw;    
+    font-size: 3.1vw; 
+     text-shadow: 3px 3px 0px rgb(0, 0, 0);
 }
 #landing p{
     font-size: 18px;
     margin-top: -10px;
+    text-shadow: 3px 3px 0px rgb(0, 0, 0);
 }
 #blog{
    
