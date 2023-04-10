@@ -38,9 +38,10 @@ img {
     height: 160px;
     border-radius: 5px;
 }
-#blog div {
+div {
     width: 280px;
     height: 380px;
+    background-color: whitesmoke;
     border: 1px solid gainsboro ;
     display: inline-block;
     text-align: justify;
@@ -87,7 +88,6 @@ div:nth-child(4){
 #services{
     margin-top: 100px;
     background-color: whitesmoke;
-    margin: 100px;
     height: 400px;
 
 }
@@ -116,7 +116,7 @@ ul :first-child{
     background-color: purple;
 }
 li:hover{
- box-shadow: 0px -1px 5px 4px rgba(36,34,34,0.75);
--webkit-box-shadow: 0px -1px 5px 4px rgba(36,34,34,0.75);
--moz-box-shadow: 0px -1px 5px 4px rgba(36,34,34,0.75);
+ box-shadow: 0px 0px 5px 6px rgba(36,34,34,0.26);
+-webkit-box-shadow: 0px 5px 5px 6px rgba(36,34,34,0.26);
+-moz-box-shadow: 0px 0px 5px 6px rgba(36,34,34,0.26);
 }
